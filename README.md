@@ -1,2 +1,2 @@
 # Project-1-Exploratory-Data-Analysis
-Project 1 Assignment Coursera
+This repo is created to fulfill the Project one of the course "Exploratory Data Analysis" offered from Coursera's Data Science specialization.
